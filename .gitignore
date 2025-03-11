@@ -12,6 +12,9 @@
 /.next/
 /out/
 
+# don't ignore lib folder
+!lib/
+
 # production
 /build
 
